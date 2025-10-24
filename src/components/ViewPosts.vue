@@ -7,7 +7,7 @@ export default {
     data() {
         return {
             moods: ["Happy", "Sad", "Angry"],
-            posts: [], // array of post objects
+            posts: [],
             entry: "",
             mood: "",
             showEditPost: false,
